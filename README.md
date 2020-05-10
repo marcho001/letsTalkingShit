@@ -4,7 +4,37 @@
 
 # Installing
 
-d
+### 下載專案
+
+```
+git clone https://github.com/marcho001/letsTalkingShit.git
+```
+
+### 安裝套件
+
+```
+npm install
+```
+
+### 啟動專案
+
+```
+npm run dev
+```
+
+### 在終端機看到 now is runing 後打開瀏覽器搜尋
+
+```
+localhost:3000
+```
+
+即可開始講幹話
+
+# Features
+
+- 選擇一個最欠幹的職業
+- 按下“Talking Shit Now”
+- 產生針對所選職業的隨機幹話
 
 # 截圖
 
